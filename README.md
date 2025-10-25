@@ -129,7 +129,7 @@ Through this project, I gained hands-on experience with:
 **Sachin**  
 Aspiring Data Analyst | SQL | Python | Data Visualization
 
-📧 Email: your.email@example.com  
+📧 Email: vesachin804@gmail.com 
 💼 LinkedIn: www.linkedin.com/in/sachin1a1
 🐙 GitHub: [@sachin1a1](https://github.com/sachin1a1)
 
