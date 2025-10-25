@@ -101,41 +101,6 @@ This project analyzes Walmart e-commerce sales data to solve real-world business
 
 ---
 
-## 🚀 How to Run
-
-### Prerequisites
-- Python 3.12+
-- MySQL 8.0+
-- Jupyter Notebook
-
-### Steps
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/walmart-sales-analysis.git
-```
-
-2. **Install required libraries**
-```bash
-pip install pandas sqlalchemy pymysql
-```
-
-3. **Setup MySQL database**
-```sql
-CREATE DATABASE walmart_db;
-```
-
-4. **Run the Python notebook**
-   - Open `walmart_sales_analysis.ipynb`
-   - Update database credentials
-   - Execute all cells
-
-5. **Run SQL queries**
-   - Open `walmart_sales_queries.sql` in MySQL Workbench
-   - Execute queries to see analysis results
-
----
-
 ## 💡 Key Insights
 
 - **Payment Trends:** E-wallet is the most preferred payment method
@@ -165,14 +130,8 @@ Through this project, I gained hands-on experience with:
 Aspiring Data Analyst | SQL | Python | Data Visualization
 
 📧 Email: your.email@example.com  
-💼 LinkedIn: 
-🐙 GitHub: 
-
----
-
-## 📄 License
-
-This project is open source and available for educational purposes.
+💼 LinkedIn: www.linkedin.com/in/sachin1a1
+🐙 GitHub: [@sachin1a1](https://github.com/sachin1a1)
 
 ---
 
